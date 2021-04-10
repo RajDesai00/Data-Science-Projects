@@ -1,4 +1,4 @@
-This project is an example of real life data science problem where in i have workd on the airlines dataset which includes the information on the fares 
+This project is an example of real life data science problem where in i have worked on the airlines dataset which includes the information on the fares 
 by different airlines on different routes. Before developing a ML model for fare prediction certain data pre-processing techniques have been applied on 
 this dataset. I have developed multiple ML models like random forest, Decision tree, and KNN. Using these models an accurate fares for different airlines
 has been predicted successfully. This project was completely for a learning approach and for exploring my intrest in the data sciences and data analytics
