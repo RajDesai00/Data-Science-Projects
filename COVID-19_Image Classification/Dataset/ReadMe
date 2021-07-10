@@ -1,0 +1,5 @@
+About Dataset:
+The datset includes chest X-rays of covid patients, normal person, and a viral pneumonia patient. 
+Based on this dataset, problrm that is identified was of image classification for which here in 
+this soution neural network with combination of convolution and pooling layer tried classifying 
+the X-ray <br>with the right prediction.
